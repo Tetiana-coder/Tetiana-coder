@@ -40,10 +40,10 @@ With years of experience managing technical documentation and engineering workfl
 
 ### 📫 Connect with Me
 
-*   **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/tetiana-sukhostavtseva-23694135a) 
-*   **Tableau Public:** [public.tableau.com/app/profile/your-profile](https://public.tableau.com/app/profile/tetiana.sukhostavtseva)
+*   **LinkedIn:** [www.linkedin.com/in/tetiana-sukhostavtseva-23694135a]
+*   **Tableau Public:** [https://public.tableau.com/app/profile/tetiana.sukhostavtseva]
 *   **Email:** [tanya.suhostavtseva@gmail.com](mailto:tanya.suhostavtseva@gmail.com)
-*   **Telegram:** [@your_username](https://t.me/@tetiana_sukhostavtseva) 
+*   **Telegram:** [https://t.me/@tetiana_sukhostavtseva]
 
 ---
 
