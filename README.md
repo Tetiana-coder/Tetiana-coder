@@ -42,8 +42,8 @@ With years of experience managing technical documentation and engineering workfl
 
 *   **[LinkedIn](https://www.linkedin.com/in/tetiana-sukhostavtseva-23694135a)**
 *   **[Tableau Public](https://public.tableau.com/app/profile/tetiana.sukhostavtseva)**
-*   **[Email](mailto:tanya.suhostavtseva@gmail.com)** (tanya.suhostavtseva@gmail.com)
-*   **[Telegram](https://t.me/tetiana_sukhostavtseva)** (@tetiana_sukhostavtseva)
+*   **[Email](mailto:tanya.suhostavtseva@gmail.com)** 
+*   **[Telegram](https://t.me/tetiana_sukhostavtseva)** 
 ---
 
 ⚡ *Fun fact: I love applying engineering precision to messy datasets—keeping my code clean, neat, and highly organized is my definition of digital hygiene.*
