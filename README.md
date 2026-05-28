@@ -1,5 +1,11 @@
 # Hi there, I'm Tetiana Sukhostavtseva! 👋
 
+
+<div align="center">
+  <!--  You can customize the typing text in the "lines=" section of the URL below -->
+  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Former +Design+Engineer]" alt="Typing SVG" />
+</div>
 ### Data Analyst | Former Design Engineer with 10+ Years of Technical Experience
 
 I am a **Data Analyst** with a strong background in engineering, structural thinking, and complex system design. My transition into data analytics is driven by a passion for uncovering insights, optimizing processes, and transforming raw data into actionable business solutions. 
