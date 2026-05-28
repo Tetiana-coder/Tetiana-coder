@@ -99,3 +99,50 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
   <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst;10+Years+of+Technical+Experience;Turning+Data+into+Insights;SQL+and+Python+Specialist" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <a href="https://linkedin.com/in/tetiana-sukhostavtseva"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:tanya.suhostavtseva@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+</p>
+
+## 🚀 Про мене 
+Я аналітик даних із понад 10-річним технічним досвідом в інженерії та програмуванні [1]. Мій шлях базується на сильному аналітичному мисленні, сформованому під час проєктування складних систем та оптимізації процесів [1, 4].
+
+Я фокусуюся на перетворенні складних і «брудних» наборів даних у чіткі звіти та дієві інсайти [1]. Моя спеціалізація — створення інтерактивних дашбордів, які дійсно працюють, та автоматизація рутинних завдань для підвищення ефективності бізнесу [3].
+
+Коли я не працюю з даними, я захоплююся проєктуванням систем та постійним навчанням (зараз маю сертифікат німецької мови B2) [1, 2, 4]. Я обожнюю той самий «ага!» момент, коли дані відкривають щось нове та корисне.
+
+### [🏆 Переглянути моє портфоліо в Tableau Public](https://public.tableau.com/app/profile/tetiana.sukhostavtseva)
+      
+## 🔭 Над чим я зараз працюю 
+
+- **Аналіз продажів:** Досліджую понад 1,200 замовлень для виявлення тенденцій прибутковості [3].  
+- **Оптимізація SQL:** Розробляю складні запити з використанням Window Functions та CTE для трансформації даних [2, 3].
+- **Візуалізація даних:** Створюю інтерактивні дашборди в Tableau для Data Storytelling [2, 3].
+
+## 🌱 Зараз вивчаю 
+
+- Поглиблена статистика та A/B тестування для прийняття бізнес-рішень [2, 3].
+- Просунутий Python для автоматизації збору та обробки даних [2].
+
+## 🛠️ Технічні навички
+
+#### Аналіз та візуалізація даних
+<p>
+  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/Tableau-Intermediate%2B-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/Excel%2FGoogle%20Sheets-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
+  <img src="https://img.shields.io/badge/Statistics-Competent-blue" alt="Statistics Badge">
+</p>
+
+#### Програмування та автоматизація
+<p>
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/Pandas-Proficient-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas Badge">
+  <img src="https://img.shields.io/badge/Git-Basic-F05032?style=flat&logo=git&logoColor=white" alt="Git Badge">
+</p>
