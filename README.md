@@ -1,23 +1,14 @@
 # Hi there, I'm Tetiana Sukhostavtseva! 👋
 
 
-### 📫 Connect with Me
-
-*   **[LinkedIn](https://www.linkedin.com/in/tetiana-sukhostavtseva-23694135a)**
-*   **[Tableau Public](https://public.tableau.com/app/profile/tetiana.sukhostavtseva)**
-*   **[Email](mailto:tanya.suhostavtseva@gmail.com)** 
-*   **[Telegram](https://t.me/tetiana_sukhostavtseva)** 
----
-
-
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst;10+Years+of+Technical+Experience;Turning+Data+into+Insights;SQL+and+Python+Specialist" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/tetiana-sukhostavtseva"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/tetiana-sukhostavtseva-23694135a"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:tanya.suhostavtseva@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://t.me/tetiana_sukhostavtseva"><img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram"></a>
 </p>
 
 ## 🚀 About Me
