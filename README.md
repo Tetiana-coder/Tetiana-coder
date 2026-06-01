@@ -19,12 +19,10 @@ I specialize in transforming messy, complex datasets into streamlined reports an
 Beyond data analytics, my interests include system design and lifelong learning (holding a B2 German language certification). What drives me most is that "aha!" moment when data uncovers new, high-impact opportunities.
 
 ### [🏆 View my portfolio on Tableau Public](https://public.tableau.com/app/profile/tetiana.sukhostavtseva)
-      
-## 🔭 What I'm Currently Working On 
 
-- **Sales analysis:** I research over 1,200 orders to identify profitability trends.  
-- **SQL Optimization:** I develop complex queries using Window Functions and CTEs for data transformation..
-- **Data visualization:** I create interactive dashboards in Tableau for Data Storytelling.
+## 🔭 What I'm Currently Working On 
+*   **[Global Retail & E-commerce Performance Analysis](https://github.com/Tetiana-coder/Global-Retail-E-commerce-Performance-Analysis/blob/main/README.md)** — Deep-dive exploratory data analysis (EDA) of a global retail dataset with 1,200+ orders to identify profitability trends across 45 countries.
+*   **[E-commerce Checkout Flow Optimization (A/B Testing)](https://github.com/Tetiana-coder/ecommerce-checkout-optimization-ab-test/blob/main/README.md)** — Statistical data analysis focused on evaluating user conversion rates to optimize the checkout process and drive business growth.    
 
 ## 🌱 Currently Learning 
 
